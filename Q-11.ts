@@ -5,7 +5,7 @@
 // Answer:
 let citrusFruits: string[] = [ "orange","grapeFruit", "banana", "mango",];
 
+citrusFruits.splice(2, 4);
 
-citrusFruits.pop();
-citrusFruits.pop();
+
 console.log(citrusFruits);
