@@ -6,5 +6,7 @@
 let citrusFruits: string[] = [ "orange","grapeFruit", "banana", "mango",];
 citrusFruits.splice(2, 4);
 
+citrusFruits.splice(2, 4);
+
 
 console.log(citrusFruits);
