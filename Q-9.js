@@ -1,5 +1,6 @@
 "use strict";
 // Question-No-9:
+Object.defineProperty(exports, "__esModule", { value: true });
 // Remove 2 elements from the fruits array starting from index 1 using the method. 
 // Answer:
 let delete2Fruits = ["apple", "banana", "mango", "orange"];

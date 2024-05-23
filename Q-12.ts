@@ -3,6 +3,6 @@
 
 // Answer:
 let lastTwoFruits = ["apple", "banana", "mango", "orange"];
-lastTwoFruits.shift();
-lastTwoFruits.shift();
+lastTwoFruits.splice(0,2);
+
 console.log(lastTwoFruits);
